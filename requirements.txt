@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+openai
+serpapi
+chromadb
+sentence-transformers
+requests
+pandas
+numpy
+ratelimit
