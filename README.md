@@ -132,6 +132,9 @@ Extract the following information for {company}:
 Format the output as JSON.
 """
 ```
+## Loom Video
+
+[Video](https://drive.google.com/file/d/1iXOE9zWw0xxTOtfZkTUwAzUL76MvxkQu/view?usp=sharing)
 
 ## Links
  - [Streamlit](https://streamlit.io/)
